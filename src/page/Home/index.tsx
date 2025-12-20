@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import './HomeStyle.css'
+//
 
 export default function Home() {
   const [modalOpen, setModalOpen] = useState(false)
